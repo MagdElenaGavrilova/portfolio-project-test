@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.391e3b68.css",
+    "main.js": "/static/js/main.1ed0ab5c.js",
+    "static/media/TTlogo.png": "/static/media/TTlogo.976013ef66408ec87a1c.png",
+    "index.html": "/index.html",
+    "main.391e3b68.css.map": "/static/css/main.391e3b68.css.map",
+    "main.1ed0ab5c.js.map": "/static/js/main.1ed0ab5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.391e3b68.css",
+    "static/js/main.1ed0ab5c.js"
+  ]
+}
